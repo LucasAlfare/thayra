@@ -218,9 +218,42 @@ fontes já conhecidas no índice, após remoção de duplicatas.
 - [x] Não foram inventados números de estudos, strings não executadas nem resultados de bases inacessíveis.
 - [x] Distinção entre referências do índice preliminar e registros das buscas complementares foi mantida.
 
-**Etapa 3 concluída.**  
-O próximo passo previsto é a **Etapa 4 — Triar os registros bibliográficos**, que deverá produzir
-`08_TRIAGEM_REFERENCIAS.md`.
+**Etapa 3 concluída.**
 
-**Commit sugerido (somente se a etapa for considerada concluída pelo solicitante):**  
+---
+
+## 7. Andamento da triagem (Etapa 4) — atualização
+
+**Data da triagem:** 21/10/2026  
+**Arquivo de triagem:** `08_TRIAGEM_REFERENCIAS.md`
+
+### 7.1 Escopo efetivamente triado
+
+- Triagem individual por título/tipo/metadados realizada para **todas as referências identificáveis do índice bibliográfico auditado** (19 itens, excluído o manual A5 não confirmado como publicado).
+- Triagem do único documento SciELO recuperado (Sá, 2012) → **excluído** (não trata de acompanhamento farmacêutico clínico).
+- Sobreposições conhecidas entre as buscas e o índice (Chow et al. 2024, Rafie et al. 2022, NAMS 2022 e demais fontes prioritárias) registradas; não contam como novos registros.
+- **Listas completas de títulos/resumos dos 224 (eixo farmacêutico) e dos 1.443 (eixo clínico) do PubMed não foram fornecidas.** Portanto, triagem título-a-título desses conjuntos volumosos **não foi executada**. Apenas exemplos explicitamente citados no registro de buscas e as sobreposições com o índice receberam decisão.
+- Candidatos potenciais mencionados sem metadados completos (Lu et al. 2018; abstract de serviço University of Iowa/JAPhA 2026; artigos profissionais de *Pharmacy Times* etc.) permaneceram **pendentes** de identificação bibliográfica verificável.
+
+### 7.2 Contagens reconciliadas (preliminares)
+
+| Categoria | Quantidade | Observação |
+|-----------|------------|------------|
+| Fontes do índice com decisão “incluir para texto completo” | 18 | A1–A4, A6, B1–B6, C1–C6, D1 |
+| Fontes do índice excluídas / não triáveis | 1 | A5 (manual não confirmado como publicado) |
+| SciELO excluído | 1 | Sá (2012) — fito-hormônios |
+| Novos registros com identificação completa triados e decididos nesta etapa | 0 | — |
+| Conjuntos PubMed sem triagem individual de títulos | 224 + 1.443 | Dependem de exportação/listagem |
+| Itens de busca complementar com identidade incompleta | vários (não quantificados) | Pendentes |
+
+**Duplicatas:** sobreposições índice ↔ buscas identificadas e registradas; remoção sistemática interna aos 224/1.443 não realizada (lista ausente).
+
+### 7.3 Implicação para etapas seguintes
+
+As 18 fontes com decisão “incluir para texto completo” constituem o conjunto prioritário para a **Etapa 5** (avaliação de textos completos e fechamento da seleção), desde que os PDFs/textos integrais sejam obtidos.  
+A triagem completa dos conjuntos volumosos do PubMed permanece pendente até que as listas de títulos e resumos sejam fornecidas. Essa pendência está documentada e não gera inventário fictício de exclusões.
+
+---
+
+**Commit da Etapa 3 (já concluída):**  
 `docs(search): document bibliographic searches`
