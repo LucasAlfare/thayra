@@ -1,20 +1,27 @@
-# Matriz de evidências clínicas — Terapia hormonal na menopausa
+# Matriz de evidências — Terapia hormonal e acompanhamento farmacêutico na menopausa
 
-**Etapa:** 6  
-**Data de preenchimento:** 21/10/2026  
-**Fontes clínicas com texto completo avaliado:**  
+**Etapas:** 6 (eixo clínico) + 7 (eixo farmacêutico)  
+**Data de atualização (Etapa 7):** 21/10/2026  
+
+**Fontes com texto completo avaliado:**  
 - NICE guideline NG23 — Menopause: identification and management (publicado 12/11/2015; última atualização 15/04/2026)  
 - Šprem Goldštajn M et al. Effects of transdermal versus oral hormone replacement therapy in postmenopause: a systematic review. *Arch Gynecol Obstet*. 2023;307:1727-1745. doi:10.1007/s00404-022-06647-5  
+- Chow H, Righton O, Berry H, Bell Z, Flynn AC. A systematic review of community pharmacy interventions to improve peri- and post-menopausal health. *Post Reprod Health*. 2024;30(1):55-63. doi:10.1177/20533691231223681. PMCID: PMC10928954  
 
-**Fontes clínicas prioritárias cujo texto completo não foi obtido (não extraídas como lidas):**  
+**Fontes prioritárias cujo texto completo não foi obtido (não extraídas como lidas):**  
 - Consenso Brasileiro SOBRAC — Terapia Hormonal no Climatério 2024  
 - IMS Recommendations (2025–2026)  
 - NAMS 2022 Hormone Therapy Position Statement  
-- Demais fontes clínicas listadas como “texto completo não obtido” em `09_REFERENCIAS_INCLUIDAS.md`  
+- Craske et al. (2024)  
+- Branvold & Barner (2003)  
+- Rafie et al. (2022)  
+- Demais fontes listadas como “texto completo não obtido” em `09_REFERENCIAS_INCLUIDAS.md`  
 
-**Escopo desta matriz:** exclusivamente o eixo clínico da terapia hormonal (benefícios, riscos, indicações, contraindicações relativas, formulações, vias de administração e individualização). Evidências sobre acompanhamento farmacêutico serão incorporadas na Etapa 7.
+**Escopo da matriz:**  
+- Eixo clínico da terapia hormonal (benefícios, riscos, indicações, vias, individualização) — preenchido na Etapa 6.  
+- Eixo do acompanhamento farmacêutico (intervenções de farmácia comunitária, educação, triagem, desfechos observados) — incorporado nesta Etapa 7.  
 
-**Regra de preenchimento:** cada afirmação está vinculada à fonte e, quando possível, à localização verificável no documento original. Campos não aplicáveis a diretrizes/revisões sistemáticas permanecem vazios ou marcados como “não se aplica”. Dados não verificáveis ou não encontrados são registrados como pendência.
+**Regra de preenchimento:** cada afirmação está vinculada à fonte e, quando possível, à localização verificável no documento original. Campos não aplicáveis permanecem vazios ou marcados como “não se aplica”. Dados não verificáveis ou não encontrados são registrados como pendência. Fontes sem texto completo **não** são tratadas como lidas.
 
 ---
 
@@ -79,7 +86,28 @@
 
 ---
 
-## 3. Síntese preliminar do eixo clínico (apenas fontes lidas)
+## 3. Chow et al. (2024) — Evidência direta (acompanhamento farmacêutico na peri/pós-menopausa)
+
+| Campo | Conteúdo extraído | Localização / observação |
+|-------|-------------------|--------------------------|
+| **Identificação** | Chow H, Righton O, Berry H, Bell Z, Flynn AC. A systematic review of community pharmacy interventions to improve peri- and post-menopausal health. *Post Reprod Health*. 2024;30(1):55-63. doi:10.1177/20533691231223681. PMCID: PMC10928954. | Página de título / Abstract |
+| **Tipo de documento** | Revisão sistemática (PRISMA; registrada no PROSPERO CRD42022367123). | Abstract; Methods |
+| **Objetivo** | Avaliar a efetividade de intervenções lideradas por farmácias comunitárias para melhorar a saúde de mulheres na peri e pós-menopausa. | Abstract; Introduction (p. 55–56) |
+| **Método** | Buscas em EMBASE, MEDLINE, CINAHL e Cochrane Library (13/02/2023) + snowballing (referências e citações via Google Scholar). Critérios PICOS. Avaliação de qualidade pelo EPHPP Tool. Síntese narrativa (SWiM). Triagem e extração em duplicata por três revisores. | Methods (p. 56–57); Fig. 1 (PRISMA) |
+| **População / intervenção** | Mulheres em peri ou pós-menopausa. Intervenções lideradas por farmácia comunitária (educação, triagem de saúde, aconselhamento, etc.). Excluídos: estudos qualitativos, revisões, literatura cinzenta, abstract de congresso, editoriais. | Table 1 (PICOS); Methods |
+| **Resultados da busca e seleção** | 915 registros identificados (904 em bases + 11 por citação) → após remoção de duplicatas e triagem: **2 estudos incluídos**. Ambos de qualidade global “weak” (EPHPP). | Results (p. 56–57); Fig. 1; Quality assessment |
+| **Estudo 1 — Blundell et al. (2006, Espanha)** | Desenho: transversal, farmácia comunitária única (Málaga). n = 100 mulheres pós-menopausa >50 anos (média 64,2 ± 8,5 anos; anos de amenorreia 0–36, média 16,2). Exclusão: uso atual de cálcio, vitamina D, TH, raloxifeno, calcitonina ou bisfosfonatos. Intervenção: ultrassom quantitativo de calcâneo (Sahara Hologic) + 5 questionários de risco de osteoporose (NOF, ORAI, ABONE, OSTA, SOFSURF). Mulheres em risco orientadas a procurar médico. Avaliação de satisfação. | Table 2; Table 3; Results (p. 57–59) |
+| | **Desfechos observados:** 11% (n=11) com risco de OP (T-score < −2,5); 61% (n=61) com risco de osteopenia. Entre as 11 com risco de OP, 6 (54,6%) receberam recomendação de tratamento farmacológico pelo médico. 31 (50,8%) das com risco de osteopenia visitaram o médico; 21 (34,4%) receberam tratamento farmacológico. Satisfação alta: 64,4% consideraram a explicação dos resultados “excelente”; 74,7% avaliaram o atendimento profissional como “excelente” (entre os 87% que responderam). | Table 4; Results (p. 59–60) |
+| **Estudo 2 — Zeolla et al. (2004, EUA)** | Desenho: multicêntrico (7 farmácias comunitárias em Nova York: 2 independentes + 5 de rede). n = 31 mulheres 47–55 anos (média 51,4 ± 2,4). Status menopausal: 16% ainda não menopausa; 52% em transição; 19% já pós-menopausa; 13% “não sabe”. Intervenção: programa educacional de 30 min conduzido por farmacêuticos treinados (currículo sobre consequências de curto e longo prazo da menopausa + opções farmacológicas e não farmacológicas). Checklist para personalização. Folhetos e cartazes para recrutamento. Acompanhamento por questionário (MoM survey) em 3 meses e 1 ano. | Table 2; Table 3; Results (p. 57–59) |
+| | **Desfechos observados (MoM survey — escore composto máximo 100):** Mediana baseline 54,2 (IC 95% 36,1–62,5) → 3 meses 86,1 (61,1–93,1) (p < 0,001) → 1 ano 89 (50–94,5) (p = 0,001). Aumentos significativos em subscores de amplitude e personalização do aconselhamento; exposição ao aconselhamento manteve significância apenas aos 3 meses. Satisfação alta (mediana 5/5 aos 3 meses; 4/5 em 1 ano). Mudanças autorrelatadas aos 3 meses: dieta/exercício 20%; medicação prescrita 10%; vitaminas/minerais 35%. Em 1 ano: dieta 40%; exercício 31%; medicação prescrita e vitaminas/minerais 13%. | Table 4; Results (p. 59–60) |
+| **Conclusões dos autores** | Evidência preliminar de benefícios de triagem de osteoporose e programas educacionais em farmácia comunitária. Escassez acentuada de estudos. Necessidade de pesquisas de alta qualidade sobre viabilidade, efetividade e aceitabilidade de intervenções lideradas por farmácia comunitária na peri/pós-menopausa. Estudos antigos (2004–2006); farmácias evoluíram (ex.: prescrição independente no Reino Unido a partir de 2026). | Discussion e Conclusions (p. 60–61) |
+| **Limitações declaradas / identificadas** | Apenas 2 estudos, ambos de qualidade “weak”. Amostras pequenas. Ausência de desfechos clínicos robustos (controle de sintomas vasomotores, adesão à TH, redução de eventos adversos, identificação de PRM). Nenhum estudo sobre manejo específico da terapia hormonal (revisão da farmacoterapia, acompanhamento de adesão à TH, monitoramento de riscos). Estudos anteriores à expansão atual de serviços clínicos farmacêuticos. Um estudo incluiu 5 mulheres ainda não menopáusicas (dados não segregados). Exclusão de artigos não em inglês. | Quality assessment; Discussion – Strengths and limitations (p. 61) |
+| **Relevância para a pergunta de pesquisa** | Única revisão sistemática localizada que aborda diretamente intervenções de farmácia comunitária na peri/pós-menopausa. Demonstra **escassez de evidência** e sugere potencial de triagem (osteoporose) e educação, com alta satisfação. **Não comprova** efetividade do acompanhamento farmacêutico no manejo da terapia hormonal (revisão de farmacoterapia, identificação de PRM, adesão, mitigação de riscos da TH). Classificada como evidência direta de baixa qualidade / lacuna central. | — |
+| **Pendências** | Textos completos de Blundell et al. (2006) e Zeolla et al. (2004) não foram obtidos separadamente; extração baseada na síntese de Chow et al. (2024). Outras fontes farmacêuticas prioritárias (Craske, Branvold & Barner, Rafie) não obtidas. | — |
+
+---
+
+## 4. Síntese do eixo clínico (fontes lidas — Etapa 6)
 
 | Tema clínico | Evidência principal (fontes lidas) | Observação de aplicabilidade |
 |--------------|------------------------------------|------------------------------|
@@ -95,28 +123,58 @@
 
 ---
 
-## 4. Pendências e limitações desta matriz (Etapa 6)
+## 5. Síntese do eixo farmacêutico (Etapa 7) — distinção de níveis de evidência
 
-1. **Fontes prioritárias não obtidas:** Consenso SOBRAC 2024, IMS Recommendations, NAMS 2022 Position Statement e Nota Técnica Conjunta nº 72/2026 não tiveram texto completo acessado; nenhuma afirmação específica foi extraída delas.
-2. **WHO Menopause fact sheet (2024):** incluída em `09` apenas para contextualização (definição e sintomas); não gerou linha própria de evidência clínica de TH nesta matriz.
-3. **Discussion aids numéricos da NICE:** as tabelas de incidência por 1.000 pessoas não foram transcritas integralmente; os statements qualitativos das tabelas de desfechos foram priorizados.
-4. **Evidence reviews da NICE:** os documentos de suporte (evidence reviews A–I) não foram lidos; as recomendações da diretriz são a fonte primária desta extração.
-5. **Progestágenos específicos:** evidência insuficiente na NICE e limitada em Šprem sobre diferenças entre micronizada, dydrogesterona e outros; permanece como lacuna.
-6. **Aplicabilidade ao Brasil:** a diretriz NICE é do Reino Unido; a matriz não extrapola doses, preparações ou acesso disponíveis no SUS ou mercado brasileiro sem fontes nacionais.
+### 5.1 Evidência específica da menopausa (direta)
+
+| Fonte | Tipo de intervenção observada | População | Desfechos realmente avaliados | Nível / qualidade | Observação de aplicabilidade ao manejo da TH |
+|-------|-------------------------------|-----------|-------------------------------|-------------------|---------------------------------------------|
+| Chow et al. (2024) → Blundell et al. (2006) | Triagem de osteoporose por ultrassom quantitativo + questionários de risco + orientação de encaminhamento | 100 mulheres pós-menopausa >50 anos (farmácia comunitária, Espanha) | Identificação de risco de OP/osteopenia; proporção que buscou médico e recebeu tratamento farmacológico; satisfação com o serviço | Baixa (estudo “weak”; amostra única; sem controle) | **Não** avalia manejo da TH. Avalia triagem óssea e encaminhamento. Potencial de identificação de necessidade de proteção óssea, mas sem dados sobre TH. |
+| Chow et al. (2024) → Zeolla et al. (2004) | Programa educacional de 30 min (consequências da menopausa + opções farmacológicas e não farmacológicas), personalizado por checklist | 31 mulheres 47–55 anos (7 farmácias, EUA); maioria em transição ou pós-menopausa | Melhora nos escores de aconselhamento (MoM survey) aos 3 meses e 1 ano; satisfação alta; mudanças autorrelatadas em dieta, exercício, medicação e suplementos | Baixa (estudo “weak”; amostra pequena; desfechos de conhecimento e autorrelato; sem desfechos clínicos de TH) | Educação geral sobre menopausa e opções de tratamento. **Não** demonstra revisão da farmacoterapia, identificação de PRM, monitoramento de adesão ou mitigação de riscos específicos da TH. |
+
+**Conclusão sobre evidência direta:**  
+A literatura disponível (única revisão sistemática localizada) demonstra **escassez** de estudos e **baixa qualidade**. Há indícios de viabilidade e aceitabilidade de triagem (osteoporose) e educação em farmácia comunitária, com melhora em escores de aconselhamento e satisfação. **Não há evidência** de efetividade do acompanhamento farmacêutico no manejo específico da terapia hormonal (revisão da farmacoterapia, identificação de problemas relacionados a medicamentos, adesão à TH, otimização de via/dose, mitigação de riscos cardiovasculares/TEV/câncer).
+
+### 5.2 Evidências gerais sobre cuidado farmacêutico (indiretas)
+
+Nenhuma fonte com texto completo obtido nesta revisão apresenta resultados de serviços farmacêuticos em outras populações que tenham sido extraídos e classificados como aplicáveis por analogia. As fontes potenciais (Craske et al. 2024, Branvold & Barner 2003, Rafie et al. 2022 e outras) **não tiveram texto completo acessado** e, portanto, **não** geram linhas de evidência indireta nesta matriz.
+
+Qualquer inferência sobre potencial do acompanhamento farmacêutico (consulta, medication review, educação, adesão) em contextos gerais de atenção farmacêutica permanece **não sustentada por dados extraídos** nesta etapa e deve ser tratada como **inferência**, não como resultado comprovado.
+
+### 5.3 Distinção explícita exigida pelo protocolo
+
+| Tipo de afirmação | Status nesta matriz |
+|-------------------|---------------------|
+| Resultados observados em mulheres na peri/pós-menopausa (triagem OP, educação, satisfação, mudanças autorrelatadas) | Extraídos de Chow et al. (2024) e dos dois estudos primários sintetizados |
+| Resultados de revisão da farmacoterapia, identificação de PRM ou adesão à TH em mulheres na menopausa | **Ausentes** — nenhum estudo incluído avaliou esses desfechos |
+| Resultados de cuidado farmacêutico em outras populações (ex.: hipertensão, diabetes, polifarmácia geral) | **Não extraídos** — fontes candidatas não obtidas |
+| Inferências sobre possível contribuição do farmacêutico com base em atribuições profissionais ou analogia | Explicitamente marcadas como **inferências**, não como evidência de efetividade |
 
 ---
 
-## 5. Critérios de conclusão da Etapa 6 — verificação
+## 6. Pendências e limitações atualizadas (após Etapa 7)
 
-- [x] Cada afirmação extraída está vinculada à respectiva fonte.
-- [x] Informações relevantes possuem localização verificável (seções/páginas) quando disponível no texto completo.
-- [x] Resultados, recomendações e conclusões são diferenciados conforme a natureza do documento (diretriz vs revisão sistemática).
-- [x] Dados não encontrados ou não verificáveis permanecem identificados como pendências.
-- [x] Não foram produzidas extrapolações clínicas sem sustentação documental.
-- [x] Matriz preenchida **somente** com o eixo clínico da terapia hormonal (eixo farmacêutico reservado à Etapa 7).
-- [x] Fontes sem texto completo acessado **não** foram tratadas como lidas.
+1. **Fontes prioritárias não obtidas:** Consenso SOBRAC 2024, IMS, NAMS 2022, Nota Técnica 72/2026, Craske et al. (2024), Branvold & Barner (2003), Rafie et al. (2022) e demais listadas em `09` — nenhuma afirmação específica foi extraída delas.
+2. **Evidência direta sobre acompanhamento farmacêutico da TH:** limitada a Chow et al. (2024), que aponta escassez e baixa qualidade e **não** avalia manejo da terapia hormonal.
+3. **Ausência de dados sobre desfechos clínicos relevantes ao manejo da TH:** adesão, identificação de PRM, revisão de via/dose, monitoramento de riscos (TEV, câncer de mama etc.), interações, otimização de benefícios.
+4. **WHO Menopause fact sheet (2024):** incluída em `09` apenas para contextualização (definição e sintomas); não gerou linha própria de evidência clínica ou farmacêutica nesta matriz.
+5. **Discussion aids numéricos da NICE e evidence reviews:** não transcritos integralmente; recomendações da diretriz são a fonte primária.
+6. **Aplicabilidade ao Brasil:** diretriz NICE e estudos de Chow são do Reino Unido/Espanha/EUA; a matriz não extrapola doses, preparações ou acesso disponíveis no SUS ou mercado brasileiro sem fontes nacionais.
+7. **CFF Resolução nº 585/2013:** incluída em `09` como contextualização regulatória (atribuições clínicas); não constitui evidência de efetividade e não gera linha de resultados clínicos nesta matriz.
 
-**Etapa 6 concluída** no escopo dos materiais efetivamente obtidos e avaliados.
+---
+
+## 7. Critérios de conclusão da Etapa 7 — verificação
+
+- [x] A matriz distingue evidências específicas da menopausa (Chow et al. / Blundell / Zeolla) e evidências gerais sobre cuidado farmacêutico (ausentes por falta de texto completo).
+- [x] O desenho e o contexto dos estudos estão identificados de maneira suficiente para avaliar sua aplicabilidade (transversal, multicêntrico, amostras, intervenções, desfechos).
+- [x] As inferências que ainda não possuem demonstração direta estão explicitadas como inferências, não como resultados comprovados.
+- [x] Nenhum benefício é atribuído ao acompanhamento farmacêutico sem sustentação nas fontes avaliadas (especialmente nenhum benefício de manejo da TH é atribuído).
+- [x] Resultados sobre consultas, educação, triagem, satisfação e mudanças autorrelatadas foram registrados apenas quando efetivamente avaliados pelos estudos.
+- [x] Fontes sem texto completo (Craske, Branvold, Rafie e demais) **não** foram tratadas como lidas.
+- [x] A matriz permanece sincronizada com `09_REFERENCIAS_INCLUIDAS.md` (5 fontes com texto completo; 1 delas é a evidência farmacêutica direta).
+
+**Etapa 7 concluída** no escopo dos materiais efetivamente obtidos e avaliados.
 
 **Commit sugerido:**  
-`docs(evidence): create clinical evidence matrix`
+`docs(evidence): add pharmacist care evidence`
