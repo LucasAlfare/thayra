@@ -197,3 +197,24 @@ avaliação de texto completo, desde que os textos completos sejam obtidos.
 
 **Commit sugerido (somente se a etapa for considerada concluída pelo solicitante):**  
 `docs(screening): document reference screening`
+
+---
+
+## 9. Atualização pós-Etapa 5 (avaliação de textos completos) — 21/10/2026
+
+Decisões de elegibilidade após obtenção/avaliação dos textos completos (ver `09_REFERENCIAS_INCLUIDAS.md`):
+
+**Incluídas após leitura integral:**
+- C2 Chow et al. (2024) — evidência direta
+- B4 NICE NG23 (atualização 15/04/2026) — evidência clínica
+- B5 Šprem Goldštajn et al. (2023) — evidência clínica (vias)
+- C1 CFF Resolução 585/2013 — contextualização regulatória BR
+- A1 WHO Menopause fact sheet (2024) — contextualização
+
+**Texto completo não obtido (permanecem como não avaliadas integralmente):**
+- B1 SOBRAC 2024, B2 IMS, B3 NAMS 2022, B6 FDA 2026
+- A2 Butler & Santoro, A3 Santoro et al., A4 Nota Técnica 72/2026, A6 Pompei et al.
+- C3 Craske et al., C4 Rafie et al., C5 Branvold & Barner, C6 Sabrina et al., D1 Arrais et al.
+
+Nenhuma fonte foi excluída por irrelevância após leitura integral. A limitação de acesso é registrada e não gera inventário fictício de resultados.
+
