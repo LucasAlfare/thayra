@@ -1,17 +1,22 @@
 # Matriz de evidências — Terapia hormonal e acompanhamento farmacêutico na menopausa
 
-**Etapas:** 6 (eixo clínico) + 7 (eixo farmacêutico)  
-**Data de atualização (Etapa 7):** 21/10/2026  
+**Etapas:** 6 (eixo clínico) + 7 (eixo farmacêutico) + 8 (contexto brasileiro e fontes regulatórias)  
+**Data de atualização (Etapa 8):** 21/10/2026  
 
 **Fontes com texto completo avaliado:**  
 - NICE guideline NG23 — Menopause: identification and management (publicado 12/11/2015; última atualização 15/04/2026)  
 - Šprem Goldštajn M et al. Effects of transdermal versus oral hormone replacement therapy in postmenopause: a systematic review. *Arch Gynecol Obstet*. 2023;307:1727-1745. doi:10.1007/s00404-022-06647-5  
 - Chow H, Righton O, Berry H, Bell Z, Flynn AC. A systematic review of community pharmacy interventions to improve peri- and post-menopausal health. *Post Reprod Health*. 2024;30(1):55-63. doi:10.1177/20533691231223681. PMCID: PMC10928954  
+- Conselho Federal de Farmácia. Resolução nº 585, de 29 de agosto de 2013. Regulamenta as atribuições clínicas do farmacêutico e dá outras providências. D.O.U. 25/09/2013  
+- World Health Organization. Menopause. Fact sheet. 16 October 2024. https://www.who.int/news-room/fact-sheets/detail/menopause  
 
 **Fontes prioritárias cujo texto completo não foi obtido (não extraídas como lidas):**  
 - Consenso Brasileiro SOBRAC — Terapia Hormonal no Climatério 2024  
 - IMS Recommendations (2025–2026)  
 - NAMS 2022 Hormone Therapy Position Statement  
+- Ministério da Saúde — Nota Técnica Conjunta nº 72/2026  
+- Pompei et al. (2022)  
+- Arrais et al. (2016)  
 - Craske et al. (2024)  
 - Branvold & Barner (2003)  
 - Rafie et al. (2022)  
@@ -19,9 +24,10 @@
 
 **Escopo da matriz:**  
 - Eixo clínico da terapia hormonal (benefícios, riscos, indicações, vias, individualização) — preenchido na Etapa 6.  
-- Eixo do acompanhamento farmacêutico (intervenções de farmácia comunitária, educação, triagem, desfechos observados) — incorporado nesta Etapa 7.  
+- Eixo do acompanhamento farmacêutico (intervenções de farmácia comunitária, educação, triagem, desfechos observados) — incorporado na Etapa 7.  
+- Contexto brasileiro e fontes regulatórias / institucionais — consolidado nesta Etapa 8.  
 
-**Regra de preenchimento:** cada afirmação está vinculada à fonte e, quando possível, à localização verificável no documento original. Campos não aplicáveis permanecem vazios ou marcados como “não se aplica”. Dados não verificáveis ou não encontrados são registrados como pendência. Fontes sem texto completo **não** são tratadas como lidas.
+**Regra de preenchimento:** cada afirmação está vinculada à fonte e, quando possível, à localização verificável no documento original. Campos não aplicáveis permanecem vazios ou marcados como “não se aplica”. Dados não verificáveis ou não encontrados são registrados como pendência. Fontes sem texto completo **não** são tratadas como lidas. Documentos regulatórios e fichas institucionais **não** são apresentados como ensaios de eficácia clínica.
 
 ---
 
@@ -107,7 +113,45 @@
 
 ---
 
-## 4. Síntese do eixo clínico (fontes lidas — Etapa 6)
+## 4. CFF Resolução nº 585/2013 — Contextualização regulatória brasileira
+
+| Campo | Conteúdo extraído | Localização / observação |
+|-------|-------------------|--------------------------|
+| **Identificação** | Conselho Federal de Farmácia. Resolução nº 585, de 29 de agosto de 2013. Regulamenta as atribuições clínicas do farmacêutico e dá outras providências. Diário Oficial da União, 25/09/2013. | Texto oficial da resolução (sites oficiais de legislação / CFF) |
+| **Tipo de documento** | Norma profissional (resolução do Conselho Federal de Farmácia) | Preâmbulo e Art. 1º |
+| **Objetivo / escopo** | Regulamentar as atribuições clínicas do farmacêutico, com vistas à promoção, proteção e recuperação da saúde, e à prevenção de doenças e de outros problemas de saúde. | Art. 1º e considerandos |
+| **População / âmbito** | Aplicável a farmacêuticos em todos os níveis de atenção à saúde, incluindo farmácia comunitária, serviços de saúde e demais estabelecimentos farmacêuticos. | Art. 2º e disposições gerais |
+| **Método** | Não se aplica (documento normativo, não estudo científico). | — |
+| **Principais disposições relevantes** | **Atribuições clínicas do farmacêutico** (Art. 3º e seguintes): cuidado centrado no paciente; participação no planejamento e avaliação da farmacoterapia; intervenção farmacêutica; consulta farmacêutica; anamnese farmacêutica; acompanhamento farmacoterapêutico; revisão da farmacoterapia; promoção do uso racional de medicamentos; educação em saúde; monitoramento de parâmetros clínicos e laboratoriais quando pertinente; identificação, prevenção e resolução de problemas relacionados a medicamentos (PRM). | Art. 3º e artigos correlatos do texto da resolução |
+| | **Objetivo das atribuições clínicas:** otimizar a farmacoterapia, melhorar a qualidade de vida do paciente e promover o uso racional de medicamentos. | Art. 1º e Art. 3º |
+| | **Consulta e acompanhamento:** o farmacêutico pode realizar consulta farmacêutica, elaborar plano de cuidado, acompanhar a evolução do paciente e registrar intervenções. | Artigos sobre consulta farmacêutica e acompanhamento farmacoterapêutico |
+| | **Âmbito de atuação:** as atribuições clínicas aplicam-se independentemente do local de exercício profissional (incluindo farmácia comunitária). | Disposições gerais |
+| **Limitações declaradas / identificadas** | Norma de atribuições profissionais — **não** constitui evidência de efetividade clínica de intervenções em menopausa ou terapia hormonal. Não apresenta dados de desfechos, ensaios ou estudos de implementação específicos para o climatério. Fundamenta o arcabouço legal e profissional da atuação clínica do farmacêutico no Brasil, não os resultados de saúde. | Natureza do documento; ausência de seções de evidência clínica |
+| **Relevância para a pergunta de pesquisa** | Base normativa brasileira que sustenta a possibilidade legal e profissional do acompanhamento farmacêutico (revisão da farmacoterapia, consulta, educação, identificação de PRM, promoção do uso racional). Essencial para discutir o “papel” do farmacêutico no contexto nacional, sem atribuir efetividade clínica específica à menopausa/TH. | — |
+| **Pendências** | Texto completo obtido e avaliado quanto às atribuições gerais; não há menção específica a menopausa, terapia hormonal ou climatério no documento. Nenhuma evidência de efetividade é extraível. | — |
+
+---
+
+## 5. WHO — Menopause fact sheet (2024) — Contextualização geral
+
+| Campo | Conteúdo extraído | Localização / observação |
+|-------|-------------------|--------------------------|
+| **Identificação** | World Health Organization. Menopause. Fact sheet. 16 October 2024. Disponível em: https://www.who.int/news-room/fact-sheets/detail/menopause | Página oficial WHO |
+| **Tipo de documento** | Ficha informativa institucional (fact sheet) | Cabeçalho / tipo de publicação |
+| **Objetivo / escopo** | Fornecer informação oficial sobre definição, sintomas e necessidade de cuidado e suporte relacionados à menopausa. | Texto introdutório |
+| **População** | Mulheres e pessoas que experimentam menopausa (escopo global). | Conteúdo geral |
+| **Método** | Não se aplica (documento de síntese institucional, não revisão sistemática primária). | — |
+| **Principais informações relevantes** | **Definição:** menopausa como cessação permanente da menstruação por perda da função folicular ovariana; diagnosticada após 12 meses consecutivos sem menstruação. | Seção de definição |
+| | **Idade típica:** 45–55 anos. | Seção de epidemiologia / idade |
+| | **Sintomas comuns:** fogachos, suores noturnos, sintomas geniturinários, alterações de humor, entre outros. | Seção de sintomas |
+| | **Ênfase:** necessidade de informação, cuidado e suporte adequados. | Seções finais / mensagens-chave |
+| **Limitações declaradas / identificadas** | Ficha informativa breve; não detalha evidências de terapia hormonal, vias de administração, riscos específicos ou papel de profissionais de saúde individuais (incluindo farmacêuticos). Não é fonte de dados epidemiológicos brasileiros. | Natureza do documento |
+| **Relevância para a pergunta de pesquisa** | Contextualização conceitual e sintomática para introdução e delimitação do problema de pesquisa. Não sustenta afirmações sobre efetividade de TH nem sobre acompanhamento farmacêutico. | — |
+| **Pendências** | Não fornece dados numéricos nacionais brasileiros nem recomendações terapêuticas detalhadas. | — |
+
+---
+
+## 6. Síntese do eixo clínico (fontes lidas — Etapa 6)
 
 | Tema clínico | Evidência principal (fontes lidas) | Observação de aplicabilidade |
 |--------------|------------------------------------|------------------------------|
@@ -123,9 +167,9 @@
 
 ---
 
-## 5. Síntese do eixo farmacêutico (Etapa 7) — distinção de níveis de evidência
+## 7. Síntese do eixo farmacêutico (Etapa 7) — distinção de níveis de evidência
 
-### 5.1 Evidência específica da menopausa (direta)
+### 7.1 Evidência específica da menopausa (direta)
 
 | Fonte | Tipo de intervenção observada | População | Desfechos realmente avaliados | Nível / qualidade | Observação de aplicabilidade ao manejo da TH |
 |-------|-------------------------------|-----------|-------------------------------|-------------------|---------------------------------------------|
@@ -135,13 +179,13 @@
 **Conclusão sobre evidência direta:**  
 A literatura disponível (única revisão sistemática localizada) demonstra **escassez** de estudos e **baixa qualidade**. Há indícios de viabilidade e aceitabilidade de triagem (osteoporose) e educação em farmácia comunitária, com melhora em escores de aconselhamento e satisfação. **Não há evidência** de efetividade do acompanhamento farmacêutico no manejo específico da terapia hormonal (revisão da farmacoterapia, identificação de problemas relacionados a medicamentos, adesão à TH, otimização de via/dose, mitigação de riscos cardiovasculares/TEV/câncer).
 
-### 5.2 Evidências gerais sobre cuidado farmacêutico (indiretas)
+### 7.2 Evidências gerais sobre cuidado farmacêutico (indiretas)
 
 Nenhuma fonte com texto completo obtido nesta revisão apresenta resultados de serviços farmacêuticos em outras populações que tenham sido extraídos e classificados como aplicáveis por analogia. As fontes potenciais (Craske et al. 2024, Branvold & Barner 2003, Rafie et al. 2022 e outras) **não tiveram texto completo acessado** e, portanto, **não** geram linhas de evidência indireta nesta matriz.
 
 Qualquer inferência sobre potencial do acompanhamento farmacêutico (consulta, medication review, educação, adesão) em contextos gerais de atenção farmacêutica permanece **não sustentada por dados extraídos** nesta etapa e deve ser tratada como **inferência**, não como resultado comprovado.
 
-### 5.3 Distinção explícita exigida pelo protocolo
+### 7.3 Distinção explícita exigida pelo protocolo
 
 | Tipo de afirmação | Status nesta matriz |
 |-------------------|---------------------|
@@ -152,29 +196,69 @@ Qualquer inferência sobre potencial do acompanhamento farmacêutico (consulta, 
 
 ---
 
-## 6. Pendências e limitações atualizadas (após Etapa 7)
+## 8. Síntese do contexto brasileiro e fontes regulatórias / institucionais (Etapa 8)
 
-1. **Fontes prioritárias não obtidas:** Consenso SOBRAC 2024, IMS, NAMS 2022, Nota Técnica 72/2026, Craske et al. (2024), Branvold & Barner (2003), Rafie et al. (2022) e demais listadas em `09` — nenhuma afirmação específica foi extraída delas.
-2. **Evidência direta sobre acompanhamento farmacêutico da TH:** limitada a Chow et al. (2024), que aponta escassez e baixa qualidade e **não** avalia manejo da terapia hormonal.
-3. **Ausência de dados sobre desfechos clínicos relevantes ao manejo da TH:** adesão, identificação de PRM, revisão de via/dose, monitoramento de riscos (TEV, câncer de mama etc.), interações, otimização de benefícios.
-4. **WHO Menopause fact sheet (2024):** incluída em `09` apenas para contextualização (definição e sintomas); não gerou linha própria de evidência clínica ou farmacêutica nesta matriz.
-5. **Discussion aids numéricos da NICE e evidence reviews:** não transcritos integralmente; recomendações da diretriz são a fonte primária.
-6. **Aplicabilidade ao Brasil:** diretriz NICE e estudos de Chow são do Reino Unido/Espanha/EUA; a matriz não extrapola doses, preparações ou acesso disponíveis no SUS ou mercado brasileiro sem fontes nacionais.
-7. **CFF Resolução nº 585/2013:** incluída em `09` como contextualização regulatória (atribuições clínicas); não constitui evidência de efetividade e não gera linha de resultados clínicos nesta matriz.
+### 8.1 Fontes com texto completo obtido e classificadas
+
+| Fonte | Tipo | Função na pesquisa | Conteúdo efetivamente sustentado | O que **não** se pode afirmar |
+|-------|------|--------------------|----------------------------------|-------------------------------|
+| CFF Resolução nº 585/2013 | Norma profissional brasileira | Contextualização regulatória / atribuições clínicas | O farmacêutico possui atribuições clínicas regulamentadas (cuidado centrado no paciente, consulta farmacêutica, anamnese, acompanhamento farmacoterapêutico, revisão da farmacoterapia, identificação e resolução de PRM, promoção do uso racional de medicamentos, educação em saúde). Aplicável a todos os níveis de atenção, incluindo farmácia comunitária. Objetivo: otimizar a farmacoterapia e melhorar a qualidade de vida. | Não constitui evidência de efetividade clínica em menopausa ou terapia hormonal. Não apresenta dados de desfechos, prevalência de uso de TH no Brasil, nem estudos de implementação específicos do climatério. |
+| WHO Menopause fact sheet (2024) | Ficha informativa institucional (global) | Contextualização conceitual / sintomas | Definição de menopausa (12 meses consecutivos sem menstruação); idade típica 45–55 anos; sintomas comuns (fogachos, suores noturnos, geniturinários, humor); necessidade de informação, cuidado e suporte. | Não é fonte epidemiológica brasileira. Não detalha TH, vias, riscos ou papel do farmacêutico. |
+
+### 8.2 Fontes brasileiras / regulatórias prioritárias **não obtidas** (texto completo)
+
+| Fonte | Status | Consequência metodológica |
+|-------|--------|---------------------------|
+| Ministério da Saúde — Nota Técnica Conjunta nº 72/2026 | Texto oficial completo não localizado em acesso aberto estável | Nenhuma informação específica extraída; não usada como fonte lida |
+| Pompei et al. (2022) | Texto completo não obtido | Nenhuma informação específica extraída |
+| Arrais et al. (2016) | Texto completo não obtido | Nenhuma informação epidemiológica ou de uso de medicamentos extraída |
+| Consenso Brasileiro SOBRAC — TH no Climatério 2024 | Texto integral completo não disponível em acesso aberto gratuito no momento da avaliação | Nenhuma recomendação clínica brasileira específica extraída |
+
+### 8.3 Separação explícita de tipos de evidência (exigência da Etapa 8)
+
+| Tipo de evidência | Fontes lidas que a sustentam | Status |
+|-------------------|------------------------------|--------|
+| **Evidência clínica internacional (TH)** | NICE NG23; Šprem Goldštajn et al. (2023) | Extraída e sintetizada (seções 1, 2 e 6) |
+| **Evidência direta de acompanhamento farmacêutico na menopausa** | Chow et al. (2024) | Extraída e sintetizada (seções 3 e 7); baixa qualidade / escassez |
+| **Contextualização regulatória brasileira (atribuições profissionais)** | CFF Resolução nº 585/2013 | Extraída nesta etapa (seção 4); fundamenta o arcabouço legal, **não** a efetividade |
+| **Contextualização conceitual / sintomas (global)** | WHO Menopause fact sheet (2024) | Extraída nesta etapa (seção 5) |
+| **Evidência epidemiológica brasileira (prevalência, uso de TH, etc.)** | Nenhuma com texto completo obtido | **Ausente** nesta matriz |
+| **Diretrizes / consensos clínicos brasileiros** | Nenhuma com texto completo obtido | **Ausente** nesta matriz |
+| **Documentos regulatórios brasileiros sobre TH ou menopausa** | Nota Técnica 72/2026 não obtida | **Ausente** nesta matriz |
+
+### 8.4 Observações de aplicabilidade e limitações
+
+- A Resolução CFF 585/2013 permite afirmar que o farmacêutico brasileiro **pode** exercer atribuições clínicas de acompanhamento farmacoterapêutico, revisão da farmacoterapia e promoção do uso racional de medicamentos. Isso fundamenta a **possibilidade profissional** do papel discutido no TCC, mas **não** demonstra que essas atribuições produzem benefícios clínicos específicos em mulheres em uso de terapia hormonal na menopausa.
+- Não há, nas fontes lidas, dados epidemiológicos brasileiros sobre prevalência de sintomas de menopausa, uso de TH, adesão ou problemas relacionados a medicamentos nesse grupo.
+- A aplicabilidade das recomendações da NICE e dos achados de Šprem e Chow ao contexto brasileiro permanece limitada pela ausência de fontes nacionais clínicas e epidemiológicas acessadas integralmente.
+- Documentos regulatórios **não** são tratados como evidência de eficácia clínica.
 
 ---
 
-## 7. Critérios de conclusão da Etapa 7 — verificação
+## 9. Pendências e limitações atualizadas (após Etapa 8)
 
-- [x] A matriz distingue evidências específicas da menopausa (Chow et al. / Blundell / Zeolla) e evidências gerais sobre cuidado farmacêutico (ausentes por falta de texto completo).
-- [x] O desenho e o contexto dos estudos estão identificados de maneira suficiente para avaliar sua aplicabilidade (transversal, multicêntrico, amostras, intervenções, desfechos).
-- [x] As inferências que ainda não possuem demonstração direta estão explicitadas como inferências, não como resultados comprovados.
-- [x] Nenhum benefício é atribuído ao acompanhamento farmacêutico sem sustentação nas fontes avaliadas (especialmente nenhum benefício de manejo da TH é atribuído).
-- [x] Resultados sobre consultas, educação, triagem, satisfação e mudanças autorrelatadas foram registrados apenas quando efetivamente avaliados pelos estudos.
-- [x] Fontes sem texto completo (Craske, Branvold, Rafie e demais) **não** foram tratadas como lidas.
-- [x] A matriz permanece sincronizada com `09_REFERENCIAS_INCLUIDAS.md` (5 fontes com texto completo; 1 delas é a evidência farmacêutica direta).
+1. **Fontes prioritárias não obtidas:** Consenso SOBRAC 2024, IMS, NAMS 2022, Nota Técnica Conjunta nº 72/2026, Pompei et al. (2022), Arrais et al. (2016), Craske et al. (2024), Branvold & Barner (2003), Rafie et al. (2022) e demais listadas em `09` — nenhuma afirmação específica foi extraída delas.
+2. **Evidência direta sobre acompanhamento farmacêutico da TH:** limitada a Chow et al. (2024), que aponta escassez e baixa qualidade e **não** avalia manejo da terapia hormonal.
+3. **Ausência de dados sobre desfechos clínicos relevantes ao manejo da TH:** adesão, identificação de PRM, revisão de via/dose, monitoramento de riscos (TEV, câncer de mama etc.), interações, otimização de benefícios.
+4. **Contexto brasileiro incompleto:** apenas a norma de atribuições clínicas (CFF 585/2013) foi acessada integralmente. Não há dados epidemiológicos nacionais, consensos clínicos brasileiros nem documentos regulatórios específicos sobre TH/menopausa com texto completo avaliado.
+5. **Discussion aids numéricos da NICE e evidence reviews:** não transcritos integralmente; recomendações da diretriz são a fonte primária.
+6. **Aplicabilidade ao Brasil:** diretriz NICE e estudos de Chow são do Reino Unido/Espanha/EUA; a matriz não extrapola doses, preparações ou acesso disponíveis no SUS ou mercado brasileiro sem fontes nacionais lidas.
+7. **WHO Menopause fact sheet (2024):** utilizada apenas para contextualização conceitual (definição e sintomas); não gera evidência clínica ou farmacêutica específica.
 
-**Etapa 7 concluída** no escopo dos materiais efetivamente obtidos e avaliados.
+---
+
+## 10. Critérios de conclusão da Etapa 8 — verificação
+
+- [x] As evidências nacionais, clínicas, regulatórias e epidemiológicas estão separadas (seção 8.3).
+- [x] As informações regulatórias (CFF 585/2013) são descritas de acordo com o conteúdo e o alcance do documento consultado (atribuições, não efetividade).
+- [x] As limitações e a aplicabilidade de cada fonte estão registradas.
+- [x] Os dados epidemiológicos (quando presentes) possuem fonte e contexto identificáveis — neste caso, **ausentes** por falta de texto completo de fontes nacionais.
+- [x] Não foram atribuídos a estudos ou documentos resultados ou características que não tenham sido verificados.
+- [x] Fontes sem texto completo (Nota Técnica 72/2026, Pompei 2022, Arrais 2016 e demais) **não** foram tratadas como lidas.
+- [x] A matriz permanece sincronizada com `09_REFERENCIAS_INCLUIDAS.md` (5 fontes com texto completo; 1 regulatória brasileira + 1 contextualização institucional global).
+- [x] Documentos regulatórios não foram apresentados como ensaios de eficácia clínica.
+
+**Etapa 8 concluída** no escopo dos materiais efetivamente obtidos e avaliados.
 
 **Commit sugerido:**  
-`docs(evidence): add pharmacist care evidence`
+`docs(evidence): consolidate Brazilian evidence`
